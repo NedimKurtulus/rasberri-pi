@@ -1,2 +1,2 @@
 # rasberri-pi
-elma_robotu
+rasberry-pi 3 model b+ için endüstriyel amaçlarda kullanılabilir python kodları.
